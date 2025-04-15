@@ -1,0 +1,1 @@
+# Kod strategii SMA crossover

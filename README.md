@@ -1,2 +1,2 @@
-# Heston Model
+# Monte Carlo Option Pricing
 Opis strategii...
