@@ -1,1 +1,2 @@
-# olegquant
+# Heston Model
+Opis strategii...
